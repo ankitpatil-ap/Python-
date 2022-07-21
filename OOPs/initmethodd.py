@@ -1,6 +1,6 @@
 class Computers:
     #attribute (vaiables)
-    def __int__(self): #self is argument __init__ is special method. it will get call automatically
+    def __init__(self): #self is argument __init__ is special method. it will get call automatically
         print("in init")
 
     #attribute (methods(functions))
